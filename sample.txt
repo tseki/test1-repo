@@ -1,2 +1,2 @@
 This is a sample file.
-Add a this line.
+Add this line.
